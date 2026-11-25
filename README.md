@@ -51,3 +51,4 @@ scripts/seed.js             sample data
 - Admin auth is not included. Add it (e.g. NextAuth or middleware) before exposing this anywhere real.
 - Any status can be set from any other status. If you want a strict flow, enforce allowed transitions in the PATCH handler.
 - Date filters are interpreted in UTC.
+# puja-booking
