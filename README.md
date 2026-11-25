@@ -52,3 +52,4 @@ scripts/seed.js             sample data
 - Any status can be set from any other status. If you want a strict flow, enforce allowed transitions in the PATCH handler.
 - Date filters are interpreted in UTC.
 # puja-booking
+# puja-booking
